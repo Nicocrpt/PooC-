@@ -63,7 +63,7 @@ public class Utilisateur {
                 number = true;
             }
             if (letter && number){
-                return true
+                return true;
             }
         }
         return letter && number ? true : false ;
