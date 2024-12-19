@@ -1,9 +1,9 @@
 ﻿
 using System;
 
-Utilisateur utilisateur = new Utilisateur("john", "doe", "test123", "john@doe");
+Utilisateur utilisateur = new Utilisateur("john", "doe", "test", "john@doe");
 
-utilisateur.Nom = "test";
+utilisateur.Nom = "Johnny";
 
 Console.WriteLine(utilisateur.Nom);
 
@@ -46,7 +46,7 @@ public class Utilisateur {
     {
         Nom = name;
         Prenom = firstname;
-        _Mdp = password;
+        motDePasse = password;
         Mail = email;
     }
 
