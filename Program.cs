@@ -57,10 +57,13 @@ public class Utilisateur {
 
         foreach (char c in password)
         {
-            if (Char.IsLetter(c)) {
+            if (Char.IsLetter(c) && !letter) {
                 letter = true;
-            } else if (Char.IsDigit(c)) {
+            } else if (Char.IsDigit(c) && !number) {
                 number = true;
+            }
+            if (letter && number){
+                return true
             }
         }
         return letter && number ? true : false ;
