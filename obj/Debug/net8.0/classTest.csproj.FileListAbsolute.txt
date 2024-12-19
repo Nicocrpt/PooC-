@@ -1,0 +1,14 @@
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.AssemblyInfoInputs.cache
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.AssemblyInfo.cs
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.csproj.CoreCompileInputs.cache
+/Users/nicolascarpita/Desktop/C# Exo/classTest/bin/Debug/net8.0/classTest
+/Users/nicolascarpita/Desktop/C# Exo/classTest/bin/Debug/net8.0/classTest.deps.json
+/Users/nicolascarpita/Desktop/C# Exo/classTest/bin/Debug/net8.0/classTest.runtimeconfig.json
+/Users/nicolascarpita/Desktop/C# Exo/classTest/bin/Debug/net8.0/classTest.dll
+/Users/nicolascarpita/Desktop/C# Exo/classTest/bin/Debug/net8.0/classTest.pdb
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.dll
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/refint/classTest.dll
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.pdb
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.genruntimeconfig.cache
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/ref/classTest.dll
