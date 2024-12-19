@@ -7,7 +7,13 @@ utilisateur.Nom = "test";
 
 Console.WriteLine(utilisateur.Nom);
 
-utilisateur.motDePasse = "kebab";
+Console.WriteLine(utilisateur.motDePasse);
+
+utilisateur.motDePasse = "chgtMdp";
+
+Console.WriteLine(utilisateur.motDePasse);
+
+utilisateur.motDePasse = "cgtMdp12";
 
 Console.WriteLine(utilisateur.motDePasse);
 
@@ -30,7 +36,7 @@ public class Utilisateur {
             if (verifyPassword(value)) {
                 _Mdp = value;
             } else {
-                Console.WriteLine("mot de passe non valide");
+                Console.WriteLine("Le mot de passe " + value + " est non valide");
             }
         }
     }

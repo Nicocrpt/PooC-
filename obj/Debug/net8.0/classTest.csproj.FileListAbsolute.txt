@@ -12,3 +12,4 @@
 /Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.pdb
 /Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.genruntimeconfig.cache
 /Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/ref/classTest.dll
+/Users/nicolascarpita/Desktop/C# Exo/classTest/obj/Debug/net8.0/classTest.sourcelink.json
